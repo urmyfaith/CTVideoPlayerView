@@ -1,0 +1,32 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - CTPersistance (1.2.9)
+  - HandyFrame (1.1.1)
+
+DEPENDENCIES:
+  - AFNetworking
+  - CTPersistance
+  - HandyFrame
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  CTPersistance: 830b4420215081e39f29f7909753602809c708b8
+  HandyFrame: 4e95cc495e84e91f9434fe316f992ba4ee713e3a
+
+PODFILE CHECKSUM: 0ec6f6cd5d3d2efda9e055a23f045ba630f5b572
+
+COCOAPODS: 1.1.0.beta.1
